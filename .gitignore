@@ -21,9 +21,10 @@ dist/
 *.egg-info/
 
 # データファイル
-/data/
-/chroma_data/
-
+data/
+!data/.gitkeep
+chroma_data/
+!chroma_data/.gitkeep
 # ログファイル
 *.log
 npm-debug.log*

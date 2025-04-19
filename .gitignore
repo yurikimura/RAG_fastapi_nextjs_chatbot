@@ -21,14 +21,10 @@ dist/
 *.egg-info/
 
 # データファイル
-!data/.gitkeep
-!chroma_data/.gitkeep
-!documents/.gitkeep
-!temp/.gitkeep
-data/*
-chroma_data/*
-documents/*
-temp/*
+data/
+chroma_data/
+documents/
+temp/
 
 # ログファイル
 *.log

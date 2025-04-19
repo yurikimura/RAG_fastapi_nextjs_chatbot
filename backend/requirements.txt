@@ -1,0 +1,24 @@
+# FastAPI関連
+fastapi
+uvicorn
+python-multipart
+pydantic
+starlette
+
+# ドキュメント処理関連
+langchain
+langchain_openai
+langchain-community
+openai
+pypdf
+docx2txt
+tiktoken
+
+# ベクトルDB関連
+chromadb
+sentence-transformers
+
+# ユーティリティ
+python-dotenv
+requests
+tqdm
